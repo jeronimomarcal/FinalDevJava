@@ -15,7 +15,7 @@ Aqui está a lista com as tecnologias utilizadas para desenvolver o projeto:
 - JavaScript.
 
 Analise e documentação de cada parte do código.
-# Arquivo POM.xml (Maven)
+# Arquivo pom.xml (Maven)
 ```java
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
