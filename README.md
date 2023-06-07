@@ -46,7 +46,7 @@ Analise e documentação de cada parte do código.
 </project>
 ```
 
-O arquivo `POM.xml` é o arquivo de configuração do Maven, uma ferramenta de gerenciamento de projetos Java. Nele são especificadas as dependências, plugins e outras configurações do projeto. Neste caso, o arquivo contém o nome, a descrição e a versão do projeto, bem como a versão do Spring Boot utilizada. As dependências do projeto são especificadas dentro da seção `<dependencies>`.
+O arquivo `pom.xml` é o arquivo de configuração do Maven, uma ferramenta de gerenciamento de projetos Java. Nele são especificadas as dependências, plugins e outras configurações do projeto. Neste caso, o arquivo contém o nome, a descrição e a versão do projeto, bem como a versão do Spring Boot utilizada. As dependências do projeto são especificadas dentro da seção `<dependencies>`.
 
 # As depedencias utilizadas no projeto são as seguintes:
    ```
